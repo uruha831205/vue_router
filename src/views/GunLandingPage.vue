@@ -34,7 +34,7 @@ const setBoxZindex = (choose) => {
     >
       <div class="pic airsoft-pic">
         <div class="description">
-          <div class="title">生存遊戲</div>
+          <div class="title">生存遊戲123</div>
           <div class="context">有價值的假日黃金戰士</div>
         </div>
       </div>
@@ -47,7 +47,7 @@ const setBoxZindex = (choose) => {
     >
       <div class="pic any-pic">
         <div class="description">
-          <div class="title">隨意逛逛</div>
+          <div class="title">隨意逛逛123</div>
           <div class="context">嗯...算了，沒事，我自己逛逛就好</div>
         </div>
       </div>
@@ -60,7 +60,7 @@ const setBoxZindex = (choose) => {
     >
       <div class="pic real-pic">
         <div class="description">
-          <div class="title">真實槍枝</div>
+          <div class="title">真實槍枝123</div>
           <div class="context">生命財產誠可貴，保重</div>
         </div>
       </div>
